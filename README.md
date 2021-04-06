@@ -1,7 +1,7 @@
 # logica_e_programacao
 
 Fluxogramas no drive 
-#https://drive.google.com/drive/folders/1P0vsa_k9jusOrjL2v2bmL8KKpKelj1on?usp=sharing
+# https://drive.google.com/drive/folders/1P0vsa_k9jusOrjL2v2bmL8KKpKelj1on?usp=sharing
 
 Exercicios Scratch: Variaveis e operadores aritmeticos
 # https://scratch.mit.edu/projects/498717408
